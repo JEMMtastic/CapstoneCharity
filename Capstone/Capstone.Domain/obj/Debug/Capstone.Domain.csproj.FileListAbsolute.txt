@@ -1,0 +1,5 @@
+C:\Users\Marian\Capstone\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\Capstone.Domain.dll
+C:\Users\Marian\Capstone\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\Capstone.Domain.pdb
+C:\Users\Marian\Capstone\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Marian\Capstone\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.dll
+C:\Users\Marian\Capstone\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.pdb

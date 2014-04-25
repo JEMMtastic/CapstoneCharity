@@ -9,9 +9,9 @@ namespace Capstone.Domain.Abstract
 {
     public interface UserInterface
     {
-        public void AddUser(User u);
-        public User GetUser(string name);
-        public void DeleteUser(string name);
-        public void EditUser(string name);
+         void AddUser(User u);
+         User GetUser(string name);
+         void DeleteUser(string name);
+         void EditUser(string name);
     }
 }

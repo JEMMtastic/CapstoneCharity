@@ -9,9 +9,9 @@ namespace Capstone.Domain.Abstract
 {
     public interface BvLocationInterface
     {
-        public BvLocation GetBvLocation(string storeNum);
-        public void AddBvLocation(BvLocation bvLocation);
-        public void DeleteBvLocation(string storeNum);
-        public BvLocation EditBvLocation(string storeNum);
+         BvLocation GetBvLocation(string storeNum);
+         void AddBvLocation(BvLocation bvLocation);
+         void DeleteBvLocation(string storeNum);
+         BvLocation EditBvLocation(string storeNum);
     }
 }

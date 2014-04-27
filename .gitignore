@@ -1,1 +1,7 @@
 *.suo
+*.obj
+*.bin
+Capstone/Capstone.WebUI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
+Capstone/Capstone.v11.suo
+Capstone/Capstone.Domain/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache

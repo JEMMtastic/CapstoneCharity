@@ -48,11 +48,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\BvLocationInterface.cs" />
+    <Compile Include="Abstract\CharityInterface.cs" />
     <Compile Include="Abstract\PartnershipNightInterface.cs" />
     <Compile Include="Abstract\StatsInfoInterface.cs" />
     <Compile Include="Abstract\UserInterface.cs" />
     <Compile Include="Concrete\BvLocationRepository.cs" />
     <Compile Include="Concrete\CapstoneDbContext.cs" />
+    <Compile Include="Concrete\CharityRepository.cs" />
     <Compile Include="Concrete\PartnershipNightRepository.cs" />
     <Compile Include="Concrete\StatsInfoRepository.cs" />
     <Compile Include="Concrete\UserRepository.cs" />

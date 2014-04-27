@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 
 namespace Capstone.Domain.Concrete
 {
-    class StatsInfoRepository : StatsInfoInterface
+    public class StatsInfoRepository : StatsInfoInterface
     {
         public void AddStatsInfo(Entities.StatsInfo s)
         {
-            throw new NotImplementedException();
+            var db = new CapstoneDbContext();
+            db.StatsInfos.Add(s);
+            db.SaveChanges();
         }
 
         public Entities.User GetStatsInfo(int id)

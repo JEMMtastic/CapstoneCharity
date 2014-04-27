@@ -18,7 +18,9 @@ namespace Capstone.Domain.Concrete
 
         public void AddBvLocation(BvLocation bvLocation)
         {
-            throw new NotImplementedException();
+            var db = new CapstoneDbContext();
+            db.BvLocations.Add(bvLocation);
+            db.SaveChanges(); ;
         }
 
         public void DeleteBvLocation(string storeNum)

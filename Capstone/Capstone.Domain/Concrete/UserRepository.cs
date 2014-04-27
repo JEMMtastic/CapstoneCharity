@@ -12,7 +12,9 @@ namespace Capstone.Domain.Concrete
 
         public void AddUser(Entities.User u)
         {
-            throw new NotImplementedException();
+            var db = new CapstoneDbContext();
+            db.Users.Add(u);
+            db.SaveChanges();
         }
 
         public Entities.User GetUser(string name)

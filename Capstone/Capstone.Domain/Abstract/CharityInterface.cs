@@ -7,11 +7,9 @@ using System.Threading.Tasks;
 
 namespace Capstone.Domain.Abstract
 {
-    public interface StatsInfoInterface
+    public interface CharityInterface
     {
-        void AddStatsInfo(StatsInfo s);
-        User GetStatsInfo(int id);
-        void DeleteStatsInfo(int id);
-        void EditStatsInfo(int id);
+        void AddCharity(Charity c);
+        Charity GetCharity(string name);
     }
 }

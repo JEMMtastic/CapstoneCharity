@@ -7,3 +7,8 @@ C:\Users\cs133c\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\De
 C:\Users\cs133c\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.pdb
 C:\Users\cs133c\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\Capstone.Domain.dll
 C:\Users\cs133c\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\Capstone.Domain.pdb
+C:\Users\User\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\Capstone.Domain.dll
+C:\Users\User\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\Capstone.Domain.pdb
+C:\Users\User\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.dll
+C:\Users\User\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.pdb

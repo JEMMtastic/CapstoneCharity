@@ -42,13 +42,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\BvLocationInterface.cs" />
-    <Compile Include="Abstract\PartnershipNightInterface.cs" />
     <Compile Include="Abstract\UserInterface.cs" />
     <Compile Include="Concrete\BvLocationRepository.cs" />
-    <Compile Include="Concrete\PartnershipNightRepository.cs" />
     <Compile Include="Concrete\UserRepository.cs" />
     <Compile Include="Entities\BvLocation.cs" />
-    <Compile Include="Entities\PartnershipNight.cs" />
+    <Compile Include="Entities\Charity.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

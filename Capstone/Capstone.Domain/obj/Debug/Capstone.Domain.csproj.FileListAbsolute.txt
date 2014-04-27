@@ -12,3 +12,12 @@ C:\Users\User\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debu
 C:\Users\User\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.dll
 C:\Users\User\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.pdb
+C:\Users\Atman Unfolding\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\Capstone.Domain.dll.config
+C:\Users\Atman Unfolding\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\Capstone.Domain.dll
+C:\Users\Atman Unfolding\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\Capstone.Domain.pdb
+C:\Users\Atman Unfolding\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Atman Unfolding\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atman Unfolding\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Atman Unfolding\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atman Unfolding\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.dll
+C:\Users\Atman Unfolding\Documents\GitHub\CapstoneCharity\Capstone\Capstone.Domain\obj\Debug\Capstone.Domain.pdb

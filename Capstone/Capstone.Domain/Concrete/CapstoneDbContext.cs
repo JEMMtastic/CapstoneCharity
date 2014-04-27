@@ -8,12 +8,12 @@ using System.Data.Entity;
 
 namespace Capstone.Domain.Concrete
 {
-    class CapstoneDbContext
+    public class CapstoneDbContext : DbContext
     {
-        DbSet<BvLocation> BvLocations { get; set; }
-        DbSet<User> Users { get; set; }
-        DbSet<Charity> Charities { get; set; }
-        DbSet<PartnershipNight> PartnershipNights { get; set; }
-        DbSet<StatsInfo> StatsInfos { get; set; }
+        public DbSet<BvLocation> BvLocations { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<Charity> Charities { get; set; }
+        public DbSet<PartnershipNight> PartnershipNights { get; set; }
+        public DbSet<StatsInfo> StatsInfos { get; set; }
     }
 }

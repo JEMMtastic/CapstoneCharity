@@ -53,7 +53,7 @@
     <Compile Include="Abstract\UserInterface.cs" />
     <Compile Include="Concrete\BvLocationRepository.cs" />
     <Compile Include="Concrete\CapstoneDbContext.cs" />
-    <Compile Include="Concrete\PartnershipNightRepo.cs" />
+    <Compile Include="Concrete\PartnershipNightRepository.cs" />
     <Compile Include="Concrete\StatsInfoRepository.cs" />
     <Compile Include="Concrete\UserRepository.cs" />
     <Compile Include="Entities\BvLocation.cs" />

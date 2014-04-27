@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Capstone.Domain.Entities
 {
-    class StatsInfo
+    public class StatsInfo
     {
         public int StatsInfoId { get; set; }
         public decimal TotalSales { get; set; }

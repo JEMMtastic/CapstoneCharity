@@ -26,7 +26,7 @@ namespace Capstone.Domain.Concrete
             throw new NotImplementedException();
         }
 
-        public Entities.BvLocation EditBvLocation(string storeNum)
+        public BvLocation EditBvLocation(string storeNum)
         {
             throw new NotImplementedException();
         }

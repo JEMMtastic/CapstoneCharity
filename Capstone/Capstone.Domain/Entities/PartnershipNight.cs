@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Capstone.Domain.Entities
 {
-    class PartnershipNight
+    public class PartnershipNight
     {
         public int PartnershipNightId { get; set; }
         public DateTime Date { get; set; }

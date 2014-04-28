@@ -10,7 +10,7 @@ namespace Capstone.Domain.Entities
     {
         public int PartnershipNightId { get; set; }
         public DateTime Date { get; set; }
-        public Charity Charity { get; set; } //TODO make sure this matches the Charity class's name once it is written
+        public Charity Charity { get; set; } 
         public BvLocation BVLocation { get; set; }
         public int CheckRequestId { get; set; }
         public decimal AmountRaised { get; set; }

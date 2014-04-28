@@ -54,7 +54,7 @@ namespace Capstone.WebUI.Controllers
             PartnershipNight pn1 = new PartnershipNight { AfterTheEventFinished = false, AmountRaised = 0, BeforeTheEventFinished = true, BVLocation = loc1, Charity = c1, CheckRequestFinished = false, Comments = "blah blah", Date = DateTime.Parse("05/30/2014") };
             pnRepo.AddPartnershipNight(pn1);
             //add stats
-            StatsInfo s1 = new StatsInfo { AmountOfTotalSalesToCharity = 25.88M, CashDonations = 19.83M, GuestCount = 10, TotalSales = 100.00M };
+            StatsInfo s1 = new StatsInfo { AmountOfTotalSalesToCharity = 25.88M, CashDonations = 19.83M, GuestCount = 10, TotalSales = 100.00M, partnershipNight = pn1};
             sRepo.AddStatsInfo(s1);
             return View();
         }

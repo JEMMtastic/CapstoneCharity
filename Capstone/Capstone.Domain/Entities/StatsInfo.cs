@@ -13,5 +13,6 @@ namespace Capstone.Domain.Entities
         public decimal AmountOfTotalSalesToCharity { get; set; }
         public decimal CashDonations { get; set; }
         public int GuestCount { get; set; }
+        public PartnershipNight partnershipNight { get; set; }
     }
 }
